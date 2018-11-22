@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/../spring-cloud-learn/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-learn/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-learn/eureka-server/pom.xml" />
       </list>
     </option>
   </component>
